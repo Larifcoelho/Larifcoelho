@@ -33,9 +33,9 @@ Minha trajetória inclui experiência em projetos de:
 - Desenvolvimento Back-End com *Java*  
 - *Frameworks Java* (em breve)  
 - Integração de *APIs*  
-- *Bancos de dados relacionais*  
-
----
+- *Bancos de dados relacionais*
+- 
+----------------------------
 
 ## 📍Meus Objetivos  
 
@@ -51,7 +51,13 @@ Meu objetivo principal é me tornar uma *Desenvolvedora Back-End especializada e
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larifcoelho&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&bg_color=fffff0&text_color=2d3748&title_color=fbbf24&icon_color=fbbf24"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larifcoelho&layout=compact&langs_count=7&theme=solarized-light&bg_color=fffff0&text_color=2d3748&title_color=fbbf24"/> </div>
 
----
+----------------------------------
+
+## 🎓 Certificações  
+
+![Oracle Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
+---------------------------------
 
 ## 💛Conecte-se Comigo  
 
@@ -60,5 +66,3 @@ Meu objetivo principal é me tornar uma *Desenvolvedora Back-End especializada e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larifcoelho)  
 
 ---
-
-"Sou movida pelos meus objetivos e sonhos, por isso vou em busca de conhecimento. Ele é meu pulsar para que tudo se realize, e por isso sou persistente na minha constante evolução. ⭐"  
