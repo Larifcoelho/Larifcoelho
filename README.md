@@ -3,9 +3,8 @@
 
 ---
 
-## Sobre Mim  
+# Sobre Mim  
 
-Sou uma estudante dedicada de Análise e Desenvolvimento de Sistemas, com foco em me tornar uma Desenvolvedora Back-End especializada em *Java*.  
 Acredito que o conhecimento é a chave para realizar sonhos, e por isso busco constantemente evoluir e aprender novas tecnologias.  
 
 Minha trajetória inclui experiência em projetos de:  
@@ -14,7 +13,7 @@ Minha trajetória inclui experiência em projetos de:
 
 ---
 
-## 🛠 Tecnologias e Ferramentas  
+# 🛠 Tecnologias e Ferramentas  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,41 +27,24 @@ Minha trajetória inclui experiência em projetos de:
 
 ---
 
-## 📈 Estou Estudando  
+ # Estou Estudando  
 
 - Desenvolvimento Back-End com *Java*  
 - *Frameworks Java* (em breve)  
 - Integração de *APIs*  
 - *Bancos de dados relacionais*
-- 
+  
 ----------------------------
 
-## 📍Meus Objetivos  
-
-Meu objetivo principal é me tornar uma *Desenvolvedora Back-End especializada em Java*, integrando meus conhecimentos em:  
-
-- *Python* para automação e análise,  
-- *Conexão e integração de dados via APIs*,  
-- *Power BI* para visualização de dados.  
-
----
-
-## ⚡Estatísticas do GitHub  
+# ⚡Estatísticas do GitHub  
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larifcoelho&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true&bg_color=fffff0&text_color=2d3748&title_color=fbbf24&icon_color=fbbf24"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larifcoelho&layout=compact&langs_count=7&theme=solarized-light&bg_color=fffff0&text_color=2d3748&title_color=fbbf24"/> </div>
 
-----------------------------------
-
-## 🎓 Certificações  
-
-![Oracle Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
-
 ---------------------------------
 
-## 💛Conecte-se Comigo  
+# 💛 Sinta-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-fcoelho/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissafcoelho9@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Larifcoelho)  
 
----
