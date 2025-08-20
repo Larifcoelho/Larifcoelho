@@ -1,9 +1,4 @@
-# Olá, eu sou a Larissa! 💛
- *Futura Desenvolvedora Back-End* | 💻 *Estudante de Análise e Desenvolvimento de Sistemas*  
-
----
-
-# Sobre Mim  
+# Olá, eu sou a Larissa! 💛  
 
 Acredito que o conhecimento é a chave para realizar sonhos, e por isso busco constantemente evoluir e aprender novas tecnologias.  
 
